@@ -9,6 +9,8 @@
           __/ |                      
          |___/                       
 ```
-[Discord Server](https://discord.gg/KM76e7TEZT) | [REPL](https://world-class.github.io/REPL/) </br>
+![discordmembers](https://img.shields.io/badge/discord_members-1.930-blue?style=flat-square) ![currentweek](https://img.shields.io/badge/current_week-4-red?style=flat-square) ![braindamage](https://img.shields.io/badge/status-brain_damage-pink?style=flat-square)
 
-![braindamage](https://img.shields.io/badge/status-brain_damage-pink)
+[Discord Server](https://discord.gg/KM76e7TEZT) 
+
+
