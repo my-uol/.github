@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![discordmembers](https://img.shields.io/badge/discord_members-2.155-blue?style=flat-square) ![currentweek](https://img.shields.io/badge/current_week-19-red?style=flat-square) ![braindamage](https://img.shields.io/badge/status-brain_damage-pink?style=flat-square)
+  ![discordmembers](https://img.shields.io/badge/discord_members-2.155-blue?style=flat-square) ![currentweek](https://img.shields.io/badge/current_week-20-red?style=flat-square) ![braindamage](https://img.shields.io/badge/status-brain_damage-pink?style=flat-square)
   
  → [![discordserver](https://img.shields.io/badge/Discord%20Server-blue?style=flat-square)](https://discord.gg/KM76e7TEZT) ←
 </div>
